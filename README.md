@@ -4,7 +4,9 @@ This is a shared repository for people in Advanced Algorithms with Python Group 
 Here is a breakdown of each member's contributions to the project1, Authorship is listed **alphabetically by surname**:
 
 **Biyu zou**
-
+* project01_NN task4
+* project1a task2, task3
+* 
 **Chun Zhou**
 * project01_NN task5, task6
 * project1a task4
