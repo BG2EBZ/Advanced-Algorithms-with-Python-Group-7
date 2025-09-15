@@ -14,5 +14,6 @@ Here is a breakdown of each member's contributions to the project1, Authorship i
 * project1a task1
 
 **Yaliang Cai**
-
+* project01_NN task3
+* project1a task5
 **Yuhe Bian**
