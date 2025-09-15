@@ -6,6 +6,8 @@ Here is a breakdown of each member's contributions to the project1, Authorship i
 **Biyu zou**
 
 **Chun zhou**
+* project01_NN task5, task6
+* project1a task4
 
 **Tianci Wang**
 * project01_NN task1, task2
