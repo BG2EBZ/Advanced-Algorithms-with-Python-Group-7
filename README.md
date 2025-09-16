@@ -2,9 +2,9 @@
 
 This is a shared repository for people in Advanced Algorithms with Python Group 7 to share code and work together.
 
-Here is a breakdown of each member's contributions to the project1, Authorship is listed **alphabetically by surname**:
+Here is a breakdown of each member's contributions to the project1, Authorship is listed **alphabetically by given name**:
 
-**Biyu zou**
+**Biyu Zou**
 
 * project01_NN task4
 * project1a task2, task3
